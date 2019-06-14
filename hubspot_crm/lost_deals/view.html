@@ -1,0 +1,23 @@
+<div class="tr  mt-4 pb-2">
+    <div class="bigger-3x bold negative">
+        <metric field-name="total_amount">{{ data.total_amount | currency:undefined:0 }}</metric>
+    </div>
+    <div class="bigger-2x mb-1 bold mt-3">Lost Deals</div>
+    <div class="bigger-120 o-6 pb-3">Summary of deals lost in the selected period.</div>
+    
+</div>
+
+<div class="row pt-3 mt-3 bt tr">
+    <div class="col-6">
+        <div class="o-6"># Deals</div>
+        <div class="bigger-2x negative mt-1">
+            <metric field-name="deal_count">{{ data.deal_count | number }}</metric>
+        </div>
+    </div>
+    <div class="col-6 pl-3">
+        <div class="o-6">AVG amount</div>
+        <div class="bigger-2x negative mt-1">
+            <metric field-name="avg_amount">{{ data.avg_amount | currency:undefined:0 }}</metric>
+        </div>
+    </div>
+</div>
