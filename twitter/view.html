@@ -1,0 +1,32 @@
+<!-- set the actual handle -->
+<div class="title-xlg">@ladygaga</div>
+<div class="subtle-text mb-1 bb pb-1">Twitter</div>
+
+<div class="row mt-1 tr">
+    <div class="col-6 pr-2 br x1-col-12">
+        <div class="title-sm mb-1 o-5">Followers</div>
+        <div class="title-xlg neutral">
+            <metric field-name="followers_count">{{ data.followers_count | number}}</metric>
+        </div>
+    </div>
+    <div class="col-6 x1-col-12 x1-pr-2 x1-mt-2">
+        <div class="title-sm mb-1 o-5">Favourites</div>
+        <div class="title-xlg neutral">
+            <metric field-name="favourites_count">{{ data.favourites_count | number }}</metric>
+        </div>
+    </div>
+</div>
+<div class="row mt-1 tr">
+    <div class="col-6 pr-2 br x1-col-12 x1-mt-2">
+        <div class="title-sm mb-1 o-5">Statuses</div>
+        <div class="title-xlg neutral">
+            <metric field-name="statuses_count">{{ data.statuses_count | number }}</metric>
+        </div>
+    </div>
+    <div class="col-6 x1-col-12 x1-pr-2 x1-mt-2">
+        <div class="title-sm mb-1 o-5">Listed</div>
+        <div class="title-xlg neutral">
+            <metric field-name="listed_count">{{ data.listed_count | number }}</metric>
+        </div>
+    </div>
+</div>
