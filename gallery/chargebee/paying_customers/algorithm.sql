@@ -1,4 +1,4 @@
-select COUNT(*) as paying_customers from chargebee_subscriptions
+select COUNT(*) as paying_customers from subscriptions
 where 
 		subscription_status = 'active' 
 	and 
