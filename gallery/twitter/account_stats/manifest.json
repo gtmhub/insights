@@ -1,3 +1,4 @@
 {
-    "name" : "Account Stats"
+    "name" : "Account Stats",
+    "description": "Displays followers, favorites, statuses, and lists count for a specified Twitter user."
 }

@@ -1,3 +1,4 @@
 {
-    "name" : "Open epics"
+    "name" : "Open epics",
+    "description": "Number of epics that are currently open (not done or in progress)."
 }

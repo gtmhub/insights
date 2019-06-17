@@ -1,3 +1,4 @@
 {
-    "name" : "Paying customers"
+    "name" : "Paying customers",
+    "description": "The total number of paying customers."
 }

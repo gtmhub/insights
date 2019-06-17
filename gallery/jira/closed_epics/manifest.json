@@ -1,3 +1,4 @@
 {
-    "name" : "Closed Epics"
+    "name" : "Closed Epics",
+    "description": "Number of closed epics in a given time period and optionally in given projects. Requires date_range filter and can use jira_project filter."
 }

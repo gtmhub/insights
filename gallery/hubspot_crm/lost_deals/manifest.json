@@ -1,3 +1,4 @@
 {
-    "name" : "Lost deals"
+    "name" : "Lost deals",
+    "description": "Summary of lost deals for the given time period. Displays total amount, deal count and average deal size. Requires date_range filter."
 }

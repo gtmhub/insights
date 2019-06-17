@@ -1,3 +1,4 @@
 {
-    "name" : "Epics in progress"
+    "name" : "Epics in progress",
+    "description": "Number of epics that are currently in progress."
 }
