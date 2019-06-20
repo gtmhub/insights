@@ -1,1 +1,1 @@
-SELECT * FROM twitter_user
+SELECT * FROM twitterUser
