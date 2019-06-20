@@ -1,4 +1,4 @@
 {
-    "name" : "Won deals",
+    "title" : "Won deals",
     "description": "Summary of won deals for the given time period. Displays total amount, deal count and average deal size. Requires date_range filter."
 }
