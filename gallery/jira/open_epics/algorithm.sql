@@ -1,3 +1,3 @@
 SELECT COUNT(*) AS epics_open
-FROM jira_issues
+FROM Issues
 WHERE lower(issuetypename) = 'epic' AND NULLIF (resolutionname, '') IS NULL

@@ -1,5 +1,5 @@
 SELECT sum(story_point_estimate) as story_points
-FROM jira_issues
+FROM Issues
 WHERE
     (
         CASE WHEN NULLIF('%%jira_project%%', '') IS NOT NULL
