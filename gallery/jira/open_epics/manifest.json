@@ -1,4 +1,5 @@
 {
     "title" : "Open epics",
-    "description": "Number of epics that are currently open (not done or in progress)."
+    "description": "Number of epics that are currently open (not done or in progress).",
+    "tags": ["epics", "engineering"]
 }

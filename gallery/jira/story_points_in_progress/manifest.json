@@ -1,4 +1,5 @@
 {
     "title" : "Story points in progress",
-    "description": "Shows the sum of story points of all items that are currently in progress. Supports filters for Jira project jira_project and Jira user jira_user."
+    "description": "Shows the sum of story points of all items that are currently in progress. Supports filters for Jira project jira_project and Jira user jira_user.",
+    "tags": ["epics", "story-points", "engineering"]
 }

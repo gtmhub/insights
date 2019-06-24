@@ -1,4 +1,5 @@
 {
     "title" : "Total MRR",
-    "description": "The current monthly recurring revenue."
+    "description": "The current monthly recurring revenue.",
+    "tags": ["customers", "billing", "saas"]
 }

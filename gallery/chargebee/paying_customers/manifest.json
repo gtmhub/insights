@@ -1,4 +1,5 @@
 {
     "title" : "Paying customers",
-    "description": "The total number of paying customers."
+    "description": "The total number of paying customers.",
+    "tags": ["customers", "billing", "saas"]
 }
