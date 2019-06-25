@@ -1,0 +1,5 @@
+{
+  "title" : "Support Tickets",
+  "description" : "The total number of tickets and number of open tickets in ZenDesk.",
+  "tags": ["support", "tickets", "customer-success"]
+}
