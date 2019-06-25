@@ -1,0 +1,5 @@
+{
+  "title" : "Bookings",
+  "description": "The amount of won deals during a given time period. Requires date_range filter.",
+  "tags": ["sales", "crm", "deals"]
+}
