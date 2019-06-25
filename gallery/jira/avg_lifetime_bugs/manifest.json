@@ -1,0 +1,5 @@
+{
+  "title" : "Average lifetime bugs",
+  "description": "The average age in days that it takes to close a bug since it was created.",
+  "tags": ["bugs", "engineering", "agile"]
+}
