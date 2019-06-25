@@ -1,0 +1,5 @@
+{
+  "title" : "Total Sessions",
+  "description": "The total number of sessions (non-unique) during a given time period. Requires date_range filter.",
+  "tags": ["marketing", "website", "sessions"]
+}
