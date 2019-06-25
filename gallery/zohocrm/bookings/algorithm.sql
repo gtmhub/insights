@@ -1,5 +1,5 @@
 SELECT COALESCE(SUM(amount), 0) as bookings 
-FROM zoho_deals
+FROM Deals
 WHERE 
     stage ILIKE '%won%'
     AND
