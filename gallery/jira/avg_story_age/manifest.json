@@ -1,0 +1,5 @@
+{
+  "title" : "Average story age",
+  "description": "The average age in days of the stories that are still not resolved.",
+  "tags": ["stories", "engineering", "agile"]
+}
