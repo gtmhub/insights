@@ -1,0 +1,5 @@
+{
+  "title" : "Bookings",
+  "description": "Summary of bookings for the given time period. Displays total amount and deal count. Requires date_range filter.",
+  "tags": ["sales", "crm", "deals", "bookings"]
+}
