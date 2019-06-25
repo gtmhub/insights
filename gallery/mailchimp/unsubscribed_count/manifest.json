@@ -1,0 +1,5 @@
+{
+  "title" : "Unsubscribes",
+  "description" : "The total number of people that unsubscribed from MailChimp in given period.",
+  "tags": ["marketing", "email"]
+}
