@@ -1,0 +1,5 @@
+{
+  "title" : "Average epic age",
+  "description": "The average age in days of the epics that are still not resolved.",
+  "tags": ["epics", "engineering", "agile"]
+}
