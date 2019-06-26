@@ -1,0 +1,5 @@
+{
+  "title" : "Open critical bugs",
+  "description": "Number of critical bugs that are open at the moment.",
+  "tags": ["bugs", "engineering"]
+}
