@@ -3,7 +3,7 @@ FROM (
        SELECT
          date_trunc('week', resolutiondate) as week,
          COUNT(DISTINCT id) as "count"
-       FROM jira_issues
+       FROM Issues
        WHERE lower(resolutionname) = 'done' AND resolutiondate @@ '%%date_range%%'
              AND lower(issuetypename) IN ('story', 'bug')
        GROUP BY 1
