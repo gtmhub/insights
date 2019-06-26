@@ -1,0 +1,5 @@
+{
+  "title" : "Requester average wait time",
+  "description" : "The average wait time in calendar and business minutes for a ticket ZenDesk. Supports _date_range_ filter.",
+  "tags": ["support", "tickets", "customer-success"]
+}

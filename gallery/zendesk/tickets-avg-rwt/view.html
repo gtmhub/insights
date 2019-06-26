@@ -1,0 +1,15 @@
+<div class="title tc mb-3">Requester average wait time</div>
+<!-- left column -->
+<div class="col-6 br pr-2 tr">
+    <div class="title-lg neutral">
+        <metric field-name="avg_bus" name="Average requester wait time (business minutes)">{{data.avg_bus | number}}</metric>
+    </div>
+    <div class="subtle-text">Business minutes</div>
+</div>
+<!-- right column -->
+<div class="col-6 pl-2">
+    <div class="title-lg neutral">
+        <metric field-name="avg_cal" name="Average requester wait time (calendar minutes)">{{data.avg_cal | number}}</metric>
+    </div>
+    <div class="subtle-text">Calendar minutes</div>
+</div>
