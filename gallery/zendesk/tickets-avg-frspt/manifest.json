@@ -1,0 +1,5 @@
+{
+  "title" : "Time to first response",
+  "description" : "The average time in calendar and business minutes to a first ticket response. Supports _date_range_ filter.",
+  "tags": ["support", "tickets", "customer-success"]
+}
