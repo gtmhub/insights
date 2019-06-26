@@ -1,0 +1,5 @@
+{
+  "title" : "New critical bugs",
+  "description": "Number of new critical bugs created in a given time period. Requires date_range filter.",
+  "tags": ["bugs", "engineering"]
+}
