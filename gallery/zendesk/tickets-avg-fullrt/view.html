@@ -1,0 +1,15 @@
+<div class="title tc mb-3">Time to full resolution</div>
+<!-- left column -->
+<div class="col-6 br pr-2 tr">
+    <div class="title-xxlg neutral">
+        <metric field-name="avg_bus" name="Average time to full resolution (business minutes)">{{data.avg_bus | number}}</metric>
+    </div>
+    <div class="subtle-text">Business minutes</div>
+</div>
+<!-- right column -->
+<div class="col-6 pl-2">
+    <div class="title-xxlg neutral">
+        <metric field-name="avg_cal" name="Average time to full resolution (calendar minutes)">{{data.avg_cal | number}}</metric>
+    </div>
+    <div class="subtle-text">Calendar minutes</div>
+</div>

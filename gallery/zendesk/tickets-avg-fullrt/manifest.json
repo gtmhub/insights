@@ -1,0 +1,5 @@
+{
+  "title" : "Full resolution average time",
+  "description" : "The average time in calendar and business minutes for a ticket full resolution. Supports _date_range_ filter.",
+  "tags": ["support", "tickets", "customer-success"]
+}
