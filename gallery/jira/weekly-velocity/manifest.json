@@ -1,0 +1,5 @@
+{
+  "title" : "Weekly velocity",
+  "description": "Weekly velocity of stories and bugs in Jira.",
+  "tags": ["story", "bug", "engineering", "agile"]
+}
