@@ -19,3 +19,5 @@ Manifest file provides additional information for the insight. The schema of the
 * **title** - user friendly name of the insight
 * **description** - short description of what the insight does
 * **tags** - a string array of the insight tags
+* **sizeX** - the number of grid cells that this insight should take horizontally; default 2
+* **sizeY** - the number of grid cells that this insight should take vertically; default 3
