@@ -1,5 +1,7 @@
 {
   "title" : "Total Page Views",
   "description": "The total number of page views during a given time period. Supports date_range filter.",
-  "tags": ["marketing", "website", "page-views"]
+  "tags": ["marketing", "website", "page-views"],
+  "size-x": 6,
+  "size-y": 6
 }

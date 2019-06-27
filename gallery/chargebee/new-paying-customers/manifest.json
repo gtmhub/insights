@@ -1,5 +1,7 @@
 {
     "title" : "New paying customers",
     "description" : "The number of new paying customers added during a given time period. Supports _date_range_ filter.",
-    "tags": ["customers", "billing", "saas"]
+    "tags": ["customers", "billing", "saas"],
+    "size-x": 4,
+    "size-y": 4
 }
