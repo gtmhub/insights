@@ -1,0 +1,5 @@
+{
+  "title" : "Won opps",
+  "description": "Total amount of won opportunities in a given time period. Supports _date_range_ filter.",
+  "tags": ["sales", "bookings", "crm"]
+}
